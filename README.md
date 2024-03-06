@@ -1,4 +1,4 @@
-**[antfu.me](https://antfu.me)**
+**[doecjt.cool](https://doecjt.cool)**
 
 my personal website
 
