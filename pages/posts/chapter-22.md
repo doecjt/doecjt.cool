@@ -170,7 +170,7 @@ module.exports = {
 
 创建忽略文件 .prettierignore：
 
-```init
+```bash
 build
 dist
 out
