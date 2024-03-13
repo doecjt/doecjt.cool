@@ -1,6 +1,6 @@
 ﻿---
 title: 第31章—玩转TypeScriptAST：ASTChecker与CodeMod
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:31:00.000+00:00
 lang: zh
 duration: 10min
 type: note

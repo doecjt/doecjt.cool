@@ -1,6 +1,6 @@
 ﻿---
 title: 第29章—基于Prisma+NestJs的NodeAPI：前置知识储备
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:29:00.000+00:00
 lang: zh
 duration: 10min
 type: note

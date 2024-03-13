@@ -1,6 +1,6 @@
 ﻿---
 title: 第09章—类型编程基石：TypeScript中无处不在的泛型
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:09:00.000+00:00
 lang: zh
 duration: 10min
 type: note

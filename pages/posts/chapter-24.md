@@ -1,6 +1,6 @@
 ﻿---
 title: 第24章—说说TypeScript和ECMAScript之间那些事儿
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:24:00.000+00:00
 lang: zh
 duration: 10min
 type: note

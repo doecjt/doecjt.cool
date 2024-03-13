@@ -1,6 +1,6 @@
 ﻿---
 title: 第30章—基于Prisma+NestJs的NodeAPI：项目开发与基于Heroku部署
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:30:00.000+00:00
 lang: zh
 duration: 10min
 type: note

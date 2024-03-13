@@ -1,6 +1,6 @@
 ﻿---
 title: 第08章—类型编程好帮手：TypeScript类型工具（下）
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:08:00.000+00:00
 lang: zh
 duration: 10min
 type: note

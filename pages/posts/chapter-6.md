@@ -1,6 +1,6 @@
 ﻿---
 title: 第06章—探秘内置类型：any、unknown、never与类型断言
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:06:00.000+00:00
 lang: zh
 duration: 10min
 type: note

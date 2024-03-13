@@ -1,6 +1,6 @@
 ﻿---
 title: 第11章—类型系统层级：从TopType到BottomType
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:11:00.000+00:00
 lang: zh
 duration: 10min
 type: note

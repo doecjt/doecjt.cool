@@ -1,6 +1,6 @@
 ﻿---
 title: 第33章—漫谈篇：面试中的TypeScript
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:33:00.000+00:00
 lang: zh
 duration: 10min
 type: note

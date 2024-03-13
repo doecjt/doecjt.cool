@@ -1,6 +1,6 @@
 ﻿---
 title: 第28章—TSConfig全解（下）：检查相关、工程相关配置
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:28:00.000+00:00
 lang: zh
 duration: 10min
 type: note

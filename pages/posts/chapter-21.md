@@ -1,6 +1,6 @@
 ﻿---
 title: 第21章—在React中愉快地使用TypeScript：内置类型与泛型坑位
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:21:00.000+00:00
 lang: zh
 duration: 10min
 type: note

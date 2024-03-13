@@ -1,6 +1,6 @@
 ﻿---
 title: 第22章—让ESLint来约束你的TypeScript代码：配置与规则集介绍
-date: 2021-05-19T16:00:00.000+00:00
+date: 2021-05-19T16:22:00.000+00:00
 lang: zh
 duration: 10min
 type: note
